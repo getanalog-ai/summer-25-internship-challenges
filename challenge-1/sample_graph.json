@@ -1,0 +1,8 @@
+{
+	"nodes": [
+		{ "id": "A17", "desc": "Start" },
+		{ "id": "B42", "desc": "Compute Fibonacci" },
+		{ "id": "C13", "desc": "Return" }
+	],
+	"edges": [{ "u": "A17", "v": "B42" }, { "u": "B42", "v": "C13" }]
+}
